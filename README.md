@@ -3,3 +3,4 @@
 # TODO: 
 * Remove old references to Lua in code.
 * Rename all lua files to tora.
+* Add extra features
