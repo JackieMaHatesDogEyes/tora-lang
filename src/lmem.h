@@ -11,7 +11,7 @@
 #include <stddef.h>
 
 #include "llimits.h"
-#include "lua.h"
+#include "tora.h"
 
 
 #define luaM_error(L)	luaD_throw(L, LUA_ERRMEM)

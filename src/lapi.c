@@ -14,7 +14,7 @@
 #include <stdarg.h>
 #include <string.h>
 
-#include "lua.h"
+#include "tora.h"
 
 #include "lapi.h"
 #include "ldebug.h"

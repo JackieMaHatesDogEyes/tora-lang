@@ -12,7 +12,7 @@
 
 #include <stdlib.h>
 
-#include "lua.h"
+#include "tora.h"
 
 #include "lauxlib.h"
 #include "lualib.h"

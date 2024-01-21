@@ -13,7 +13,7 @@
 #include <locale.h>
 #include <string.h>
 
-#include "lua.h"
+#include "tora.h"
 
 #include "lctype.h"
 #include "ldebug.h"

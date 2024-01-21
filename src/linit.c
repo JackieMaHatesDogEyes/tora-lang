@@ -29,7 +29,7 @@
 
 #include <stddef.h>
 
-#include "lua.h"
+#include "tora.h"
 
 #include "lualib.h"
 #include "lauxlib.h"

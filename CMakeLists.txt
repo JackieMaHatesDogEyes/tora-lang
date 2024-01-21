@@ -59,6 +59,6 @@ add_library(tora_libs STATIC
 add_library(TORA_LIB SHARED ${TORA_CORE_FILES} ${TORA_LIB_FILES} src/lauxlib.c)
 set_target_properties(TORA_LIB PROPERTIES OUTPUT_NAME "tora")
 
-add_executable(tora src/lua.c)
+add_executable(tora src/tora.c)
 
 target_link_libraries(tora tora_core tora_aux tora_libs)

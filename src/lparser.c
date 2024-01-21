@@ -13,7 +13,7 @@
 #include <limits.h>
 #include <string.h>
 
-#include "lua.h"
+#include "tora.h"
 
 #include "lcode.h"
 #include "ldebug.h"

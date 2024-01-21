@@ -13,7 +13,7 @@
 #include <stdio.h>
 
 #include "luaconf.h"
-#include "lua.h"
+#include "tora.h"
 
 
 /* global table */
